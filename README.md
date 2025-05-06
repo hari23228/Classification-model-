@@ -38,7 +38,7 @@
 ## 📂 Dataset Structure
 
 Images must be stored in this format:
-
+```text
 Images/
 ├── cats/
 │   ├── cat1.jpg
